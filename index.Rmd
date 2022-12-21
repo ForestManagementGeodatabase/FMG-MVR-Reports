@@ -1,6 +1,5 @@
 ---
 title: "FMG-MVR-Reports"
-output: rmarkdown::html_vignette
 ---
 
 This page contains links to reports of forest surveys completed by USACE MVR. 
@@ -22,5 +21,12 @@ This page contains links to reports of forest surveys completed by USACE MVR.
 
 
 ## Pool 21
+
+### Quincy Bay
+
+* [Recon Reports - Sites](reports/Pool_21_QuincyBay_Recon_Report_Site.html)
+* [Recon Reports - Stands](reports/Pool_21_QuincyBay_Recon_Report_Stand.html)
+
+## Pecan Grove
 
 * [Recon Reports - Sites](reports/Pool_21_Recon_Report_Sites.html)
