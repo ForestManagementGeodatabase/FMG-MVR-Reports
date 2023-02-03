@@ -16,8 +16,8 @@ This page contains links to reports of forest surveys completed by USACE MVR.
 
 ## Pool 14
 
-* [Recon Reports - Sites](reports/Pool14_Recon_Reports_Sites.html)
-* [Recon Reports - Stands](reports/Pool14_Recon_Reports_Stands.html)
+* [Recon Reports - Sites](reports/Pool_14_Recon_Report_Sites.html)
+* [Recon Reports - Stands](reports/Pool_14_Recon_Report_Stands.html)
 
 ## Pool 17
 
